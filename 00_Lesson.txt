@@ -3,7 +3,7 @@
 
 01 : Node Intro         -   Done
 02 : Node Installation  -   Done
-03 : Hello Word         -   Progress
+03 : Hello Word         -   Done
 04 : Node Modules       -   Progress
 05 : File Handling      -   Progress
 06 : Node Working       -   Progress
